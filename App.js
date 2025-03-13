@@ -15,7 +15,7 @@ function App() {
         </main>
         
         <footer>
-          <p>© 2025 天气应用 | 数据由 OpenWeatherMap 提供</p>
+          <p>© 2025 Haverweather | Data From OpenWeatherMap </p>
         </footer>
       </div>
     </div>
